@@ -1,0 +1,18 @@
+1. postman
+2. navicat 11绿色版（搭配MySQL8要改下配置，已改好）
+3. MySQL8.0 root  123456
+
+ 为了1+X 考证 已卸载8.0 ，安装了5.7
+
+root root
+xwebdb xwebdb
+4.Typora笔记
+5.微信开发者工具v1.03
+6.android studio 4.0
+7.夜神模拟器6
+8.Intelli Idea2020(已破解)
+9.tomcat8绿色版（环境变量已配置）
+10.JDK8绿色版（环境变量已配置）
+11.ENSP(需依次安装wincap、virtulbox、wireshark及eNSP_Setup.exe。)
+
+
